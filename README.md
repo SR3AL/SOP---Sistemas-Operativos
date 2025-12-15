@@ -45,7 +45,7 @@ Las <ins>reglas del problema</ins> son las siguientes:
 <br>
 Como objetivo de esta primera sesión, se pretende completar el archivo `lec-esc-hilos.c` con las llamadas al sistema que permitan lanzar los hilos, sincronizar su finalización y comprobar que durante su ejecución se produce una condición de carrera.
 
-> [!NOTE]
+> **NOTA:**
 > El archivo se encuentra en `pract2/lec-esc-hilos.c`.
 
 Las <ins>acciones</ins> que se deben realizar en esta práctica son:
@@ -76,7 +76,7 @@ El contenido de la función `main()` es usado para invocar a los lectores con la
 
 En esta segunda parte de la práctica, se pretende completar el archivo `lec-esc-semaforos.c` con las llamadas al sistema que permitan solucionar la condición de carrera que previamente hemos provocado, en el código de los lectores y escritores, con ayuda de los semáforos **POSIX**.
 
-> [!NOTE]
+> **NOTA:**
 > El archivo se encuentra en `pract2/lec-esc-semaforos.c`.
 
 Se deberán de realizar los siguientes **pasos**:
